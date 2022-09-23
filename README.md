@@ -2,7 +2,7 @@
 
 This task was assigned by NTISA Mobile Dev Team.
 
-[UI Template](<<https://dribbble.com/shots/14218141-Food-App-Concept/attachments/5858715?mode=media> "Front End Template")
+[UI Template](<<https://dribbble.com/shots/14218141-Food-App-Concept/attachments/5858715?mode=media> "UI")
 
 ## Tasks
 

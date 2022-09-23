@@ -213,7 +213,7 @@ class _HomeScreenState extends State<HomeScreen> {
                               ),
                             ),
                             const SizedBox(
-                              height: 16.0,
+                              height: 10.0,
                             ),
                             Padding(
                               padding: const EdgeInsets.all(8.0),
@@ -228,6 +228,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                           foodItem['name'],
                                           style: const TextStyle(
                                             fontWeight: FontWeight.w600,
+                                            fontSize: 12,
                                           ),
                                           overflow: TextOverflow.ellipsis,
                                           maxLines: 2,
@@ -237,14 +238,14 @@ class _HomeScreenState extends State<HomeScreen> {
                                           style: TextStyle(
                                             color: Colors.orange[700],
                                             fontWeight: FontWeight.w600,
-                                            fontSize: 16.0,
+                                            fontSize: 12.0,
                                           ),
                                         ),
                                       ],
                                     ),
                                   ),
                                   const SizedBox(
-                                    width: 8.0,
+                                    width: 4.0,
                                   ),
                                   IconButton(
                                     onPressed: () {
@@ -258,7 +259,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                       backgroundColor: Colors.green,
                                       child: Icon(
                                         Icons.add,
-                                        size: 28.0,
+                                        size: 24.0,
                                         color: Colors.white,
                                       ),
                                     ),
